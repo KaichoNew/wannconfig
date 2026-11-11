@@ -1,0 +1,8 @@
+{
+  "server_host": "panel.asta-official.my.id",
+  "server_port": 9328,
+  "update_available": true,
+  "version": "v2.0.1",
+  "notes": "Update perdana, fix bug.",
+  "apk_url": "https://t.me/exotoryultra"
+}
